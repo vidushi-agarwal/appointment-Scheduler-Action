@@ -1,5 +1,5 @@
 # Appointment Scheduler
-
+![](demo.gif)
 ## Setup Instructions
 ### Dialogflow and Fulfillment Setup
 
